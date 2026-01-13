@@ -27,14 +27,15 @@ This project is beginner-friendly and helps understand **Rails basics, MVC struc
 
 ## Git hub- commands
 
-git status
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/Sudhamanidb/crudify-customers.git
-git push origin master
+- git status
+- git add .
+- git commit -m "Initial commit"
+- git remote add origin https://github.com/Sudhamanidb/crudify-customers.git
+- git push origin master
 
 ---
 ## ⚙️ Project Setup (Step-by-Step) 
+
 STEP 1: Create Rails project
 rails new secondday
 
